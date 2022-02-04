@@ -1,1 +1,0 @@
-//JS FOR LOGIN PAGE
